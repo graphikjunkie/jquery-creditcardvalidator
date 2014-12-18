@@ -19,7 +19,7 @@
     "validation",
     "cc",
     "types",
-    "payment",
+    "payment"
   ],
   "license": "MIT",
   "ignore": [
