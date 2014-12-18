@@ -9,7 +9,7 @@
   "main": "jquery.creditCardValidator.js",
   "keywords": [
     "credit",
-    "debit"
+    "debit",
     "visa",
     "mastercard",
     "discover",
